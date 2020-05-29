@@ -1,0 +1,23 @@
+{
+  "name": "keyword-scan-webpack-plugin",
+  "version": "1.0.0",
+  "description": "execute js code to scan keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gortin-x/keyword-scan-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gortin-x/keyword-scan-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/gortin-x/keyword-scan-webpack-plugin#readme",
+  "devDependencies": {
+    "rollup": "^2.11.2"
+  }
+}
