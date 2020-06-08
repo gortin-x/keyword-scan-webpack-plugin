@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gortin-x/keyword-scan-webpack-plugin#readme",
   "devDependencies": {
-    "rollup": "^2.11.2"
+    "rollup": "^2.11.2",
+    "schema-utils": "^2.7.0"
   }
 }

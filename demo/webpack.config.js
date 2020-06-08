@@ -1,4 +1,5 @@
-var KeywordScan = require("../src/index.js");
+var KeywordScan = require("../index.js");
+
 module.exports = {
     entry: {
         index: "./src/index.js"
@@ -9,7 +10,8 @@ module.exports = {
     mode: 'production',
     plugins: [
         new KeywordScan({
-            keys: ["gortin"]
+            target: "./src/path",
+            keys: ["gortin", "suen"]
         })
     ]
 };
